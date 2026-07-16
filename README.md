@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/00-Abhishek/Leetcode/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/00-Abhishek/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/00-Abhishek/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/00-Abhishek/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Simulation
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/00-Abhishek/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/00-Abhishek/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/00-Abhishek/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1260-shift-2d-grid](https://github.com/00-Abhishek/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/00-Abhishek/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1260-shift-2d-grid](https://github.com/00-Abhishek/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/00-Abhishek/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/00-Abhishek/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/00-Abhishek/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

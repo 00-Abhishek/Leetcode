@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/00-Abhishek/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/00-Abhishek/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## String
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/00-Abhishek/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/00-Abhishek/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/00-Abhishek/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/00-Abhishek/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
